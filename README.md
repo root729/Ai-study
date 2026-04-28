@@ -1,4 +1,3 @@
-[Untitled-1.py](https://github.com/user-attachments/files/27165472/Untitled-1.py)
 import numpy as np
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
